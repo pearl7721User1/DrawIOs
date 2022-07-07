@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T21:56:26.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="ytpuk96iMV0o11eISp3H" version="20.0.4" type="github"><diagram id="AlnoL4VqG4SdxzXQwVNW" name="Page-1">7VdLc5swEP41HJ0xYDvJMXbSdDrTk9NmepRBBtVCSyVhTH99Vw9ewZ5pD8l0JrnY0ifte78FgnhTnB4lKfOvkFIeRPP0FMT3QRTdRHP8NUDjgGV444BMstRBYQ9s2W/qQS+XVSylanRRA3DNyjGYgBA00SOMSAn1+Noe+NhqSTI6AbYJ4VP0maU692Et5z3+mbIsby2Hc39SkPayB1ROUqgHUPwQxBsJoN2qOG0oN7lr8+LkPl047RyTVOi/EbiZ8eefX76Hx6ctZPxx8eM+LGdey5Hwygf8TVGJyFaDbLzjummzoekJba1zXXAEQlwqLeFAN8BBIiJA4M31nnH+AiKcZQK3CXqLBuL1kUrNMM93/qBgaWrMrOucabotSWJs1thUiEmoREpNIHOjHoT2nRItcO9jQIX0dDE5YZdybFUKBdUmvrkXaIvUjLd1X/Jw4bF8UO7YY8R3WdYp7guBC1+Lf6hLNKlLEK249sGPirL6VUF7MFM2LXd4IbwuTzY37TmuMvM/w8M7YZzeKeCVprjc0Ywhf0zhayK0siwLTBac0V0rXFBbJZMZTAzeys2G8DInO6rb6xhyJ2G0N5agxY4JJjJHVgXCGyIiNZFCTfllu4mkxHqqWFE6B0Cm6oJBEM41ZgKCWlzZkNHMxuGNj7M1l1Miz1nNka9tjMaeqZrxsZQgsCMT7MjzDriYJvrqnFib7s9rLCgRZwO5GoCu6q3+98LKxZiVqykrr8+x8vq1WBn/H6wsJUmwSrYrJdOOUy+Z6HtwD0acpEfi2rVTqhwbLI0+Oi0ed1o37IettnrLB8DiLVqt74pKTdusn7mmZnhR9XPfT992mJrqSKWx5cyo3YAwZZbEt6Ydx5kkRWHHrGtMWXGrEARv7OvSwW6NI1Yxk9Qqe3IWBLV+XngqofDAT+8mVCZPBwG1c4OIprd7dmzvGQbReYixCavVKhyN7oElP769TJ03/S32QazuPb4l1u0ZYi1vp8RavRaxlhNiPRF1MMXn5mn/Xury4oU3Dl/vjRe3/VeOPRt8KsYPfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-07T23:40:35.709Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="bQoeFWIMnZa28S5c8Ray" version="20.0.4" type="github">
+  <diagram id="AlnoL4VqG4SdxzXQwVNW" name="Page-1">
+    <mxGraphModel dx="820" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8-lWjJV1vTSoglG4YD1p-1" value="User Story" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8-lWjJV1vTSoglG4YD1p-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;- An absolute beginner wants to &lt;b&gt;meddle with the alphabet&lt;/b&gt; by combining consonants and vowels to &lt;b&gt;create simple words&lt;/b&gt; on their own. And, they want to hear &lt;b&gt;how the word is pronounced&lt;/b&gt; and &lt;b&gt;what that word means&lt;/b&gt;.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="42" y="60" width="740" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8-lWjJV1vTSoglG4YD1p-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;- An absolute beginner wants to practice writing the alphabet and for advanced beginners, words.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="30" y="140" width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8-lWjJV1vTSoglG4YD1p-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;- An advanced user wants to create sentences with words they understand. Concentrating on grammar and rules only makes users tired. They need to &lt;b&gt;make sentence without knowing any rules&lt;/b&gt; first and then see what that sentence means and why that is.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="34" y="185" width="794" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8-lWjJV1vTSoglG4YD1p-5" value="Task flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="20" y="310" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
