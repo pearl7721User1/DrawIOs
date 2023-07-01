@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T02:59:07.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="kgNHjoWrSXjVuvpm0yfL" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T03:53:33.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="vcz5ONUVcZd2bUBvnLh7" version="21.5.2" type="github">
   <diagram name="Page-1" id="k4zjUz-odNLgLf188_p_">
     <mxGraphModel dx="954" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,6 +84,30 @@
         </mxCell>
         <mxCell id="20N4OvMdfqN8g-3ZH7_3-39" value="thumbnail: UIImage" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="20N4OvMdfqN8g-3ZH7_3-36">
           <mxGeometry y="86" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20N4OvMdfqN8g-3ZH7_3-40" value="KSMChatView" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="50" y="590" width="280" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="20N4OvMdfqN8g-3ZH7_3-41" value="private var scrollView: UIScrollView" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="20N4OvMdfqN8g-3ZH7_3-40">
+          <mxGeometry y="26" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20N4OvMdfqN8g-3ZH7_3-42" value="private var playButton: UIButton" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="20N4OvMdfqN8g-3ZH7_3-40">
+          <mxGeometry y="56" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20N4OvMdfqN8g-3ZH7_3-43" value="var chats: [KSMChat]" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="20N4OvMdfqN8g-3ZH7_3-40">
+          <mxGeometry y="86" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20N4OvMdfqN8g-3ZH7_3-48" value="KSMChatPlayer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="50" y="760" width="280" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="20N4OvMdfqN8g-3ZH7_3-49" value="private var scrollView: UIScrollView" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="20N4OvMdfqN8g-3ZH7_3-48">
+          <mxGeometry y="26" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20N4OvMdfqN8g-3ZH7_3-50" value="private var playButton: UIButton" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="20N4OvMdfqN8g-3ZH7_3-48">
+          <mxGeometry y="56" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20N4OvMdfqN8g-3ZH7_3-51" value="var chats: [KSMChat]" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="20N4OvMdfqN8g-3ZH7_3-48">
+          <mxGeometry y="86" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
